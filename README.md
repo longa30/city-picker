@@ -2,8 +2,9 @@
 本项目由https://github.com/tshi0912/city-picker.git改写的ajax请求JSON下拉面板式选择器
 
 使用方式与https://github.com/tshi0912/city-picker.git项目一样 在
+
 <div style="position:relative;">
-  <input readonly type="text" data-toggle="city-picker" data-url="http://localhost/ajax.json" placeholder="customized placeholder...">
+  input readonly type="text" data-toggle="city-picker" data-url="http://localhost/ajax.json" placeholder="customized placeholder..."
 </div>
 
 JSON 格式有两种：
